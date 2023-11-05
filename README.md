@@ -1,5 +1,8 @@
 # Chá Lab Bubble Tea Website
 
+# [VIEW DEMO](https://alrodriguesdev.github.io/bubbletea/)
+
+
 This project is a reflection of my personal journey through the basics of web development, particularly HTML, CSS, and SASS. It's aim is to serve as both a learning milestone and a platform to share my progress.
 
 ### Key Features:
